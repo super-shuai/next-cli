@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "next-cli",
+      "script": "yarn run start",
+      "max_memory_restart": "1024M",
+      "out_file": "~/data/logs/online/uangme.id.log",
+      "error_file": "~/data/logs/online/uangme.id-error.log",
+      "env": {
+        "PORT": 3002
+      }
+    }
+  ]
+}

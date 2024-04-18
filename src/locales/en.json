@@ -1,0 +1,34 @@
+{
+  "index": {
+    "title": "Next-Website",
+    "desc": "A full-stack, out-of-the-box, multi-page backend solution developed based on NextJS 14.0",
+    "try": "try it now"
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, zh {🇨🇳 中文} en {🇺🇸 English} other {Unknown}}"
+  },
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "pathnames": "Pathnames"
+  },
+  "global": {
+    "technological exchanges": "Technological exchanges",
+    "dashboard": "Dashboard",
+    "customChart": "Custom charts",
+    "monitor": "Data monitoring",
+    "userManage": "User management",
+    "formEngine": "Form engine",
+    "board": "Office whiteboard",
+    "orderList": "List of orders",
+    "resource": "Asset management"
+  },
+  "user": {
+    "userList": "User List"
+  },
+  "404": {
+    "tip": "The page you are visiting does not exist",
+    "goBack": "go back"
+  }
+}

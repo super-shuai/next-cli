@@ -1,0 +1,34 @@
+{
+  "index": {
+    "title": "Next-Website",
+    "desc": "一款基于NextJS 14.0+ 开发的全栈开箱即用的多页面方案",
+    "try": "立即体验"
+  },
+  "LocaleSwitcher": {
+    "label": "更改语言",
+    "locale": "{locale, select, zh {🇨🇳 中文} en {🇺🇸 English} other {Unbekannt}}"
+  },
+  "Header": {
+    "home": "首页",
+    "about": "关于我们",
+    "pathnames": "路径名称"
+  },
+  "global": {
+    "technological exchanges": "技术交流",
+    "dashboard": "数据大盘",
+    "customChart": "'自定义报表",
+    "monitor": "数据监控",
+    "userManage": "用户管理",
+    "formEngine": "表单引擎",
+    "board": "办公白板",
+    "orderList": "订单列表",
+    "resource": "资产管理"
+  },
+  "user": {
+    "userList": "用户列表"
+  },
+  "404": {
+    "tip": "next-admin: 您访问的页面不存在",
+    "goBack": "返回首页"
+  }
+}
